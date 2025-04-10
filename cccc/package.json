@@ -1,0 +1,27 @@
+{
+  "name": "facebook-video-downloader",
+  "version": "1.0.0",
+  "description": "Un outil simple pour télécharger des vidéos Facebook",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "facebook",
+    "video",
+    "downloader",
+    "rapidapi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^30.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
